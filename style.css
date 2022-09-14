@@ -1,0 +1,97 @@
+body{
+    font-family: 'Roboto';
+    }
+.hero{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+    }
+.hero-info{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 1.14;
+        letter-spacing: 0.02em;
+        color: #171414; 
+        }
+.hero-info:hover
+        {color: #2196F3;}
+.hero-tel{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+        color: #757575;
+        }    
+.hero-tel:hover{color: #2196F3;}
+.hero-mal{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+        color: #757575;
+        }
+.hero-mal:hover{color: #2196F3;}                
+.btn{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+    }
+.btn:hover{
+    color: #2196F3;
+    }
+.info{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: #212121;
+    }
+.text{font-weight: 400;
+    font-size: 16px;
+    line-height: 1.87; 
+    letter-spacing: 0.03em;
+    color: #757575;
+    }
+.foot{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;   
+    color: #2196F3;
+    }
+.foot-add{
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+    }
+.foot-info{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: rgba(21, 20, 20, 0.6);
+    }
+.foot-info:hover{
+    color: #2196F3 ;
+    }
